@@ -1,6 +1,6 @@
 ### Hi there, I'm Omkae Borikar👋
 
-## I'm a Developer who is pationate about working with data !!
+## I'm a Developer who is passionate about working with data !!
 
 
 - 🔭 I’m currently working on real life data science based personal projects.
