@@ -1,4 +1,4 @@
-### Hi there, I'm Omkae Borikar👋
+### Hi there, I'm Omkar Borikar👋
 
 ## I'm a Developer who is passionate about working with data !!
 
