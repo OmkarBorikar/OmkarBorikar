@@ -17,10 +17,6 @@
 
 </br>
 
-### Language and Tools:
-
-<img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/python.svg" alt="python" width="40" height="40"/>  <img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/scikit.svg" alt="scikit_learn" width="40" height="40"/> 
-
 
 [linkedin]: https://www.linkedin.com/in/omkar-borikar/
 [kaggle]: https://www.kaggle.com/omkarborikar
